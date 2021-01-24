@@ -54,11 +54,11 @@
   ### 4.EL
  - [轻松学会EL表达式](https://blog.csdn.net/u012660464/article/details/109017417)
   ### 5.JSTL
-   - [【教程】JavaWeb之JSTL标签](https://blog.csdn.net/u012660464/article/details/109251116)
+   - [JavaWeb之JSTL标签](https://blog.csdn.net/u012660464/article/details/109251116)
   ### 6.Filter
-   - [【教程】JavaWeb之Filter技术](https://blog.csdn.net/u012660464/article/details/109457850)
+   - [JavaWeb之Filter技术](https://blog.csdn.net/u012660464/article/details/109457850)
   ### 7.Listener
-   - [【教程】JavaWeb之Listener技术](https://blog.csdn.net/u012660464/article/details/109691782)
+   - [JavaWeb之Listener技术](https://blog.csdn.net/u012660464/article/details/109691782)
   ### 8.Linux
    - [后端开发需掌握的Linux常用命令](https://blog.csdn.net/u012660464/article/details/110000494)
    - [Linux中使用vi工具进行文本编辑](https://blog.csdn.net/u012660464/article/details/110001492)
