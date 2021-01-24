@@ -105,7 +105,7 @@
 # 面试   
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
-   - 2020大厂面试题及解析 [百度云下载链接](https://blog.csdn.net/u012660464/article/details/112685800) 密码：nriv
+   - 2020大厂面试题及解析 [百度云下载链接](https://pan.baidu.com/s/10gPKnIRwGy5gHqjZAOhpuA) 密码：nriv
   - Java面经 [百度云下载链接](https://pan.baidu.com/s/177osdbpqvDuwfb9G7IyMxA) 密码：wgy1
   - Mysql面试题详解 [百度云下载链接](https://pan.baidu.com/s/1LDiufPXWFIspCzBHNv050w) 密码：l4i2
   - Redis面试专题及答案 [百度云下载链接](https://pan.baidu.com/s/1jzInnwV58RR5-gqU_Lrsxg) 密码：b5ex
