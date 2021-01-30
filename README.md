@@ -102,6 +102,11 @@
   ### 1.MySQL高级
   ### 2.JVM优化
   ### 3.Java并发高级
+  
+  # 九、调优
+  ### 1.IDEA的使用
+  [【IDEA】解决idea在创建多级包时，不分层显示问题](https://blog.csdn.net/qq_41958306/article/details/105628694)
+ [idea lombok编译报红，已解决](https://blog.csdn.net/ainuser/article/details/103628168)
 # 面试   
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
